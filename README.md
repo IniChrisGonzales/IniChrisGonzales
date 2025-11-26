@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👤 Ini Chris Gonzales
 
-<!--
-**IniChrisGonzales/IniChrisGonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- New Era University
 
-Here are some ideas to get you started:
+## 🏅 Certifications
+- SQL and Relational Databases 101 – IBM (CognitiveClass)
+  - Certificate Link: (ilagay dito pag nakuha mo na)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skillsets
+- Java
+- HTML
+- SQL
