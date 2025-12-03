@@ -5,7 +5,7 @@
 
 ## 🏅 Certifications
 - SQL and Relational Databases 101 – IBM (CognitiveClass)
-  https://courses.cognitiveclass.ai/certificates/bbbb21718e194f9eb5389490190cbf8e
+  <a> href= "https://courses.cognitiveclass.ai/certificates/bbbb21718e194f9eb5389490190cbf8e" </a>
 
 ## 🛠️ Skillsets
 - Java
