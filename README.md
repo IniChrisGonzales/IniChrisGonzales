@@ -10,7 +10,7 @@ I am a tech enthusiast with a flair for coding and database management. I thrive
 - [SQL and Relational Databases 101](https://cognitiveclass.ai)
 - [Oracle Cloud Infrastructure Foundations Associate](https://oracle.com)
 - [OCI AI Foundations Associate (2025)](https://oracle.com)
-- [NoSQL and DBaaS 101]([https://oracle.com](https://courses.cognitiveclass.ai/certificates/f661730d5a324c9d8a8dcdc7b83b648d))
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/f661730d5a324c9d8a8dcdc7b83b648d)
 
 ### 🛠️ Skillsets
 - **Programming:** Python, Java, HTML
